@@ -1,0 +1,135 @@
+body {
+    background-color: #777777;
+    font-family: "arial";
+    margin: 10px 100px 300px 100px 
+
+    
+}
+
+.header {
+    text-align: center;
+    padding-bottom: 10px
+   
+}
+
+header {
+    color: gray;
+    background-color: white;
+    height: 100px;
+    width: 900px;
+    
+
+}
+
+.nav {
+    text-align: center;
+    padding-bottom: 10px
+
+}
+
+nav {
+    color: gray;
+    background-color: white;
+    height: 100px;
+    width: 900px;
+}
+
+section {
+    color: gray;
+    background-color: white;
+    text-align: center;
+    height: 300px;
+    width: 500px;
+    position:fixed;
+    z-index: -1;
+
+
+
+}
+
+.section {
+   
+    
+    
+    
+
+}
+
+.article {
+    
+
+
+}
+
+article {
+    background-color: rgb(58, 55, 55);
+    color: white;
+    padding:20px;
+    float: left;
+    position:relative;
+    z-index: 1;
+    padding:20px 10px 10px 10px;
+    height: 150px;
+    width: 200px;
+    margin: 
+
+}
+
+h1, h2, h3 {
+    background-color: white;
+    height: 50px;
+    width: 50px;
+
+
+}
+
+.h1, h2, h3 {
+    
+    height: 50px;
+    width: 50px;
+
+
+}
+
+
+
+.aside {
+    color: gray;
+    background-color: white;
+    height: 300px;
+    width: 500px;
+    float: right
+    
+}
+
+aside {
+    
+}
+
+footer {
+    color: gray;
+    background-color: white;
+    height: 100px;
+    width: 900px;
+    padding-top: 10px;
+    position: 
+   
+   
+
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background-color: white;
+    color: white;
+    text-align: center
+
+
+
+}
+
+
+
+
