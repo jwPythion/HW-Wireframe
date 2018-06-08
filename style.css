@@ -1,91 +1,88 @@
-* {
-
-
-
-}
-
 
 body {
     
     background-color: #777777;
+    color: #777777;
     text-align: center;
-    font-family: "arial";
-    font-size: 20px;
-    width: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 960px;
     margin:0 auto; 
    
-
-    
 }
 
 
 header {
-    color: red;
-    text-align: center;
-    background-color: white;
+    
+    background-color:#ebebeb;
     height: 100px;
     width: 900px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    padding: 20px;
     
-
 }
 
 
 nav {
     color: gray;
-    background-color: white;
+    background-color: #ebebeb;
     height: 100px;
     width: 900px;
-    text-align: center;
-    padding-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 section {
     color: gray;
-    background-color: white;
+    background-color: #ebebeb;
     text-align: center;
     height: 300px;
-    width: 500px;
-    position:fixed;
+    float: left;
+    overflow: hidden;
+    width: 495px;
+    margin-bottom: 10px;
 
-
+    
 }
 
 
 article {
-    background-color: rgb(58, 55, 55);
-    color: white;
-    padding:20px;
-    float: left;
-    padding:20px 10px 10px 10px;
-    height: 150px;
-    width: 200px;
-    margin: 
+    width: 456px;
+    height: 200px;
+    padding: 10px;
+    margin: 20px auto 0;
+    background: #777;
+    color: #ebebeb;
+    
+}
+
+h1, {
+    background-color:#ebebeb;
+    color: #777;
+    font-weight: bold;
+    margin: 20px auto 0;
+    padding: 20px;
+    margin-bottom: 10px;
 
 }
 
-h1, h2, h3 {
-    background-color: white;
-    height: 50px;
-    width: 50px;
-    height: 50px;
-    width: 50px;
-}
 
 
-
-p {
-
+p { 
+    padding: 20px;
+    background-color:#ebebeb;
+    color:#777;
 
 }
 
 
 aside {
     color: gray;
-    background-color: white;
+    background-color: #ebebeb;
     height: 300px;
-    width: 500px;
-    float: right
-    
+    width: 450px;
+    float: right;
+    margin-bottom:10px;
+
 }
 
 footer {
@@ -93,15 +90,9 @@ footer {
     background-color: white;
     height: 100px;
     width: 900px;
-    padding-top: 10px;
-    left: 0;
-    bottom: 0;
-    background-color: white;
-    color: white;
-    text-align: center
+    padding-top: 20px;
+    clear: both;
    
-   
-
 }
 
 
